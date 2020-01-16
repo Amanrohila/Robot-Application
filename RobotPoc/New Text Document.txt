@@ -1,0 +1,5 @@
+Please find attached java assignment and the following output
+
+ Robot walks for 3.5 KM : Robot Walk 3.5 km, consume battery 70% remaining battery 30%
+ Robot walks for 2 Km carrying 3 Kg weight : Robot can't walk due to low battery
+ Robot carries 12 Kg weight. : Overweight:  [RED LED display on chest] 
